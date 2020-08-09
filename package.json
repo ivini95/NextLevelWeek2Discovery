@@ -19,7 +19,9 @@
     "homepage": "https://github.com/ivini95/NextLevelWeek2Discovery#readme",
     "dependencies": {
         "express": "^4.17.1",
-        "nunjucks": "^3.2.2"
+        "node-pre-gyp": "^0.15.0",
+        "nunjucks": "^3.2.2",
+        "sqlite-async": "^1.1.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
